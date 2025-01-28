@@ -87,11 +87,13 @@ accuracy_score(y_test, y_pred)
 
 + [See code in terminal, click to view](https://colab.research.google.com/drive/1agsl_6nXDU9odzN-SGCllKsLh4VvpIwy#scrollTo=D6bpZwUiiXic)
 
-## Quesions on SVM
-[Click to view Question](https://ibb.co/g79QnGB)
+## Quesions on Naive Bayes
++ [Click to view Question 1](https://ibb.co/gZJvpN2p)
++ [Click to view Question 2](https://ibb.co/BKTVRqwC)
++ [Click to view Question 3](https://ibb.co/5x8W3F5J)
++ [Click to view Question 4](https://ibb.co/j9cf1ZYZ)
++ [Click to view Question 5](https://ibb.co/xqP1HRQY)
 
 ### Answers
-+ [See Answer One](https://ibb.co/D4MvSjD)
-+ [See Answer Two](https://ibb.co/5Kzf972)
-+ [See Answer Three](https://ibb.co/RSDcjYN)
++ Attempt
 
